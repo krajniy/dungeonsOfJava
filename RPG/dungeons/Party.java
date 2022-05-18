@@ -1,7 +1,7 @@
-package RPG;
+package dungeons;
 
-import RPG.classes.CharacterClass;
-import RPG.dungeons.Dungeon;
+import classes.CharacterClass;
+import dungeons.Dungeon;
 
 public class Party {
     private CharacterClass[] partyMembers;

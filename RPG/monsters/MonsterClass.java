@@ -1,8 +1,8 @@
-package RPG.monsters;
+package monsters;
 
-import RPG.classes.AttackType;
-import RPG.classes.BaseClass;
-import RPG.dungeons.BasicDungeon;
+import classes.AttackType;
+import classes.BaseClass;
+import dungeons.BasicDungeon;
 
 public abstract class MonsterClass implements BaseClass {
     private int healthPoints;

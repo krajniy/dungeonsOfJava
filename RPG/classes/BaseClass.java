@@ -1,4 +1,4 @@
-package RPG.classes;
+package classes;
 
 public interface BaseClass {
     void attack();

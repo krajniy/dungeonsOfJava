@@ -1,7 +1,7 @@
-package RPG.classes.characters;
+package classes.characters;
 
-import RPG.classes.AttackType;
-import RPG.classes.CharacterClass;
+import classes.AttackType;
+import classes.CharacterClass;
 
 public class Warrior extends CharacterClass {
     public Warrior(String name) {

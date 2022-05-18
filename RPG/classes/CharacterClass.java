@@ -1,4 +1,4 @@
-package RPG.classes;
+package classes;
 
 public abstract class CharacterClass implements BaseClass {
     private int healthPoints;

@@ -1,9 +1,6 @@
-package RPG.dungeons;
+package dungeons;
 
-import RPG.Party;
-import RPG.monsters.MonsterClass;
-import RPG.monsters.Necromancer;
-import RPG.monsters.Skeleton;
+import monsters.MonsterClass;
 
 import java.util.ArrayList;
 import java.util.Random;

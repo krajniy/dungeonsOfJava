@@ -1,6 +1,6 @@
-package RPG.monsters;
+package monsters;
 
-public class Necromancer extends MonsterClass {
+public class Necromancer extends monsters.MonsterClass {
     private int level;
     public Necromancer(int level) {
         this.level = level;

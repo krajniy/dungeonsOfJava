@@ -1,5 +1,5 @@
-package RPG.dungeons;
-import RPG.Party;
+package dungeons;
+
 
 public interface BasicDungeon {
     boolean open(Party party);

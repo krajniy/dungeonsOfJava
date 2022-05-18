@@ -1,13 +1,13 @@
-package RPG;
 
-import RPG.classes.characters.Archer;
-import RPG.classes.characters.Healer;
-import RPG.classes.characters.Mage;
-import RPG.classes.characters.Warrior;
-import RPG.dungeons.Dungeon;
-import RPG.monsters.MonsterClass;
-import RPG.monsters.Necromancer;
-import RPG.monsters.Skeleton;
+import classes.characters.Archer;
+import classes.characters.Healer;
+import classes.characters.Mage;
+import classes.characters.Warrior;
+import dungeons.Dungeon;
+import dungeons.Party;
+import monsters.MonsterClass;
+import monsters.Necromancer;
+import monsters.Skeleton;
 
 import java.util.ArrayList;
 
